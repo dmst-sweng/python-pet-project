@@ -1,10 +1,10 @@
 python-pet-project
 ==================
 
-A pet project in Python.
+Python pet projects.
 
 Projects:
 
 * Company-Employee
-	* python Company-main.py runs the main method using modules Company.py and Employee.py
-	* python Comp-Empl-amalg.py contains the complete code in one file
+	* _python Company-main.py_ runs the main method using modules Company.py and Employee.py
+	* _python Comp-Empl-amalg.py_ contains the complete code in one file
